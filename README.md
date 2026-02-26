@@ -6,7 +6,7 @@ This project is a **Netflix Login Page clone** built with HTML, CSS, and a touch
 
 ## Preview
 
-![Netflix Login Page Screenshot](./screenshot.PNG)
+![Netflix Login Page Screenshot](./image.png)
 
 ---
 
