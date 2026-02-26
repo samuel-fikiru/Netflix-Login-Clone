@@ -17,7 +17,7 @@ This project is a **Netflix Login Page clone** built with HTML, CSS, and a touch
 - **Checkbox for 'Remember me'** and links to Netflix's sign-up page and FAQs.
 - **Background image** dynamically displayed with a black overlay to improve readability.
 - **Hover effects** on the "Sign In" button and links.
-- Inspired by the [Netflix Login](https://themuellenator.github.io/).
+- Inspired by the [Netflix Login](https://www.netflix.com/et/login).
 
 ---
 
